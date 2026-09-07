@@ -1,0 +1,29 @@
+{
+  "name": "Özel İnci Kız Öğrenci Yurdu Kastamonu",
+  "short_name": "İnci Yurt",
+  "description": "Kastamonu Üniversitesi kampüsüne 50 metre mesafede, 2006'dan beri güvenli aile yuvası. 2026-2027 erken kayıtları.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#831843",
+  "orientation": "portrait",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "education",
+    "lifestyle"
+  ]
+}

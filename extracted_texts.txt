@@ -1,0 +1,459 @@
+L8 [title]: Özel İnci Kız Öğrenci Yurdu & Rezidansı | Kastamonu Kampüse 50 Metre
+L258 [span]: 2026-2027 Erken Kayıt
+L261 [span]: Sınırlı kontenjanda %10 peşin indirimi ve 10 taksit imkanı!
+L266 [span]: 0366 215 09 23
+L271 [span]: WhatsApp Destek
+L287 [span]: Özel İnci
+L288 [span]: 20. Yıl
+L290 [span]: Kız Öğrenci Yurdu
+L296 [a]: Kampüs (50m)
+L297 [a]: Hizmetlerimiz
+L298 [a]: Odalar
+L299 [a]: Tasarruf Hesabı
+L300 [a]: Yorumlar (4.6★)
+L303 [span]: Instagram
+L305 [a]: İletişim
+L311 [span]: Erken Kayıt
+L328 [a]: 🚶 Kampüs Mesafesi (50m)
+L329 [a]: ✨ Hizmetlerimiz & Ayrıcalıklar
+L330 [a]: 🛏️ Odalarımız
+L331 [a]: 💰 Ev vs. Yurt Tasarruf Hesabı
+L332 [a]: 💬 Öğrenci & Veli Yorumları (4.6★)
+L333 [a]: 📸 Instagram Paylaşımlarımız
+L334 [a]: 🏛️ 2006'dan Beri Güvenle
+L335 [a]: ❓ Sıkça Sorulan Sorular
+L336 [a]: 📍 İletişim & Konum
+L338 [a]: Erken Kayıt Formu
+L362 [span]: T.C. Gençlik ve Spor Bakanlığı Ruhsatlı • 20. Yıl
+L368 [h1]: Kastamonu'da Üniversite Yaşamının
+L370 [span]: En Prestijli & Güvenli
+L370 [br]: Adresi.
+L374 [p]: Kastamonu Üniversitesi Kuzeykent Kampüsü ve Eğitim Fakültesi'ne sadece
+L375 [span]: 50 metre (1 dakika yürüyüş)
+L375 [p]: mesafede. %100 ranzasız baza konforu, sabah açık büfe ve 4 kap akşam ev yemekleri, 7/24 güvenlik ve aile sıcaklığıyla ikinci eviniz.
+L381 [span]: Süit Odaları Keşfet
+L386 [span]: WhatsApp'tan Bilgi Al
+L394 [p]: Kampüse Yürüyüş
+L397 [p]: 2006
+L398 [p]: Kuruluş & Tecrübe
+L401 [p]: 4.9 / 5
+L402 [p]: 148+ Doğrulanmış Yorum
+L421 [span]: 2026-2027 Kontenjanları Açık
+L423 [span]: Doluluk: %84
+L435 [h2]: Açık Büfe & 4 Kap Sıcak Akşam Yemeği
+L436 [p]: Dışarıdan hazır yemeklere son. Kendi mutfağımızda pişirilen sıcak ev yemekleri fiyata dahildir.
+L445 [h2]: %100 Ranzasız Ortopedik Baza
+L446 [p]: Sıkışık ranza yok! Her öğrenciye bağımsız geniş baza, ergonomik masa ve geniş giysi dolabı.
+L455 [h2]: 7/24 Güvenlik & Parmak İzi Turnike
+L456 [p]: Profesyonel güvenlik personeli, kapalı devre HD kameralar ve güvenli parmak izi geçiş kontrolü.
+L465 [h2]: AmericanLIFE ile %35 Dil Eğitimi Bursu
+L466 [p]: Öğrencilerimize özel kurumsal protokol ile yabancı dil eğitiminde %35 burs indirimi.
+L473 [a]: Hızlı Ön Kayıt & Fiyat Teklifi Al
+L476 [p]: Peşin ödemede anında %10 indirim • Kredi kartına 10 taksit
+L492 [div]: 📍 Lokasyon Avantajı: 0 Dolmuş Masrafı • 0 Zaman Kaybı
+L495 [h2]: Kastamonu Üniversitesi'nin Tam Kalbindesiniz
+L498 [p]: Kuzeykent Kampüsü ve Eğitim Fakültesi'ne sadece 50 metre mesafedeyiz. Kışın dondurucu ayazında dolmuş beklemeden, ders aralarında odanıza gelip dinlenebileceğiniz benzersiz bir konum.
+L509 [span]: Fakültenizi Seçin:
+L510 [span]: (Mesafe ve süreyi anında görün)
+L518 [div]: Eğitim Fakültesi (Tıp Binası Yanı)
+L519 [div]: Yurdun hemen karşısı
+L522 [span]: 50 Metre / 1 dk
+L529 [div]: Tıp Fakültesi & Morfoloji
+L530 [div]: Kuzeykent Kampüs Girişi
+L533 [span]: 250 Metre / 3 dk
+L540 [div]: İİBF & İletişim Fakültesi
+L541 [div]: Kampüs Ana Yolu
+L544 [span]: 300 Metre / 4 dk
+L551 [div]: Mühendislik & Mimarlık Fakültesi
+L552 [div]: Merkezi Kampüs Alanı
+L555 [span]: 400 Metre / 5 dk
+L562 [div]: Merkezi Kütüphane & Öğrenci Merkezi
+L563 [div]: Sosyal Tesisler
+L566 [span]: 350 Metre / 4 dk
+L578 [span]: İnteraktif Yürüyüş Raporu
+L579 [h4]: Eğitim Fakültesi (Tıp Binası Yanı)
+L582 [span]: Dolmuş Gerekmez
+L590 [div]: Yürüme Mesafesi
+L591 [div]: 50 m
+L592 [div]: Kapıdan kapıya
+L595 [div]: Yürüme Süresi
+L596 [div]: 1 Dk
+L597 [div]: Düz ve güvenli yol
+L600 [div]: Adım Sayısı
+L601 [div]: ~65 Adım
+L602 [div]: Sıfır yorulma
+L609 [span]: 🏢 Özel İnci Kız Yurdu
+L610 [span]: 🎓 Kampüs Hedefi (50m)
+L620 [strong]: Öğrenci ve Veli Avantajı:
+L620 [span]: Uzak yurtlarda ayda 1.500 - 2.000 TL dolmuş parası ve her gün 1.5 saat trafikte heba olur. İnci Yurdu'nda yılda
+L620 [strong]: 20.000 TL ulaşım tasarrufu
+L620 [span]: sağlarsınız.
+L636 [span]: Kurumsal Standartlar & Konfor
+L639 [h2]: 5 Yıldızlı Otel Standartlarında Yaşam
+L642 [p]: Öğrencilerimizin akademik başarılarına odaklanabilmesi için her ayrıntıyı düşündük.
+L655 [div]: Kendi Mutfağımızda Günlük Pişirilir
+L658 [h3]: Açık Büfe Sabah Kahvaltısı & 4 Kap Akşam Ev Yemeği
+L661 [p]: Dışarıdan hazır catering yemekleri yerine; kendi mutfağımızda usta aşçılarımızın hijyenik koşullarda hazırladığı anne eli değmiş lezzetler. Zengin açık büfe kahvaltı ve protein dengeli sıcak akşam yemekleri fiyata dahildir.
+L665 [span]: 🥗 Sınırsız Çay & Ekmek
+L666 [span]: 🍲 Günlük 4 Kap Sıcak Menü
+L667 [span]: 🥐 Hafta Sonu Geç Kahvaltı
+L676 [h3]: %100 Ranzasız Ortopedik Baza
+L679 [p]: Sallanan veya gıcırdayan ranza yok! Her öğrenciye bağımsız ortopedik yatak, geniş giysi dolabı ve kişisel komodin.
+L682 [span]: Maksimum Uyku Kalitesi
+L692 [h3]: 7/24 Profesyonel Güvenlik
+L695 [p]: Parmak izli turnike geçiş sistemi, gece-gündüz güvenlik personeli ve bina çevresi ile ortak alanları izleyen HD güvenlik kameraları.
+L698 [span]: Aileler İçin %100 Huzur
+L708 [h3]: Fiber Wi-Fi & Sessiz Etüt
+L711 [p]: Vize ve final dönemlerinde odaklanmayı artıran aydınlık, sessiz etüt salonu ve her katta yüksek hızlı fiber kablosuz internet.
+L721 [h3]: Ücretsiz Çamaşır & Ütü
+L724 [p]: Öğrencilerimize ek hiçbir jeton veya yıkama ücreti ödetmeyen tam donanımlı çamaşır ve ütü salonu.
+L735 [span]: Özel Protokol
+L739 [h3]: AmericanLIFE ile %35 Dil Eğitimi Bursu
+L742 [p]: Yurdumuz ile Türkiye'nin köklü dil okulu AmericanLIFE arasında imzalanan kurumsal iş birliği protokolü kapsamında, İnci Yurdu öğrencileri tüm İngilizce ve yabancı dil programlarından
+L743 [strong]: %35 özel burs indirimiyle
+L743 [p]: faydalanır.
+L746 [span]: ✓ Sertifikalı Eğitim
+L748 [span]: ✓ Hazırlık Atlama Desteği
+L750 [span]: ✓ Konuşma Kulüpleri
+L763 [span]: Geniş, Ferah & Konforlu
+L766 [h2]: Süit Oda Seçeneklerimiz
+L769 [p]: Tüm odalarımızda ranza yerine kaliteli ortopedik bazalar, kişisel çalışma masaları ve geniş kıyafet dolapları mevcuttur.
+L775 [button]: Tüm Odalar
+L776 [button]: 1 Kişilik VIP
+L777 [button]: 2 Kişilik Süit
+L778 [button]: 3 Kişilik Konfor
+L779 [button]: 4 Kişilik Ferah
+L780 [button]: 5 Kişilik Ekonomik
+L790 [span]: VIP Süit • Maksimum Sessizlik
+L794 [h3]: 1 Kişilik Tek Kişilik Oda
+L795 [p]: Kişiye özel çalışma ve yaşam alanı
+L800 [strong]: Geniş Ortopedik Baza & Başlık
+L801 [strong]: Kişiye Özel Büyük Çalışma Masası
+L802 [strong]: Geniş Çift Kapaklı Gardırop
+L803 [strong]: Açık Büfe Kahvaltı & 4 Kap Akşam Yemeği
+L804 [strong]: Sınırsız Fiber Wi-Fi & 7/24 Sıcak Su
+L807 [a]: Bu Odayı Rezerve Et
+L817 [span]: ★ En Çok Tercih Edilen
+L822 [span]: Lüks Konfor Süiti
+L826 [h3]: 2 Kişilik Süit Oda
+L827 [p]: Ferah ortam, bağımsız çalışma masaları
+L832 [strong]: 2 Adet Ayrı Ortopedik Baza (Ranzasız)
+L833 [strong]: 2 Ayrı Bağımsız Çalışma Masası
+L834 [strong]: 2 Ayrı Kişisel Elbise Dolabı
+L835 [strong]: Açık Büfe Kahvaltı & 4 Kap Akşam Yemeği
+L836 [strong]: Balkon ve Bahçe Manzarası Seçeneği
+L839 [a]: Bu Odayı Rezerve Et
+L849 [span]: Geniş Yaşam Alanı
+L853 [h3]: 3 Kişilik Süit Oda
+L854 [p]: Sosyal ve konforlu öğrenci deneyimi
+L859 [strong]: 3 Adet Bağımsız Ortopedik Baza
+L860 [strong]: 3 Ayrı Çalışma Masası & Kitaplık
+L861 [strong]: Geniş ve Aydınlık Oda Mimarisi
+L862 [strong]: Açık Büfe Kahvaltı & 4 Kap Akşam Yemeği
+L863 [strong]: Ücretsiz Çamaşırhane & Sınırsız İnternet
+L866 [a]: Bu Odayı Rezerve Et
+L876 [span]: Ferah & Ekonomik
+L880 [h3]: 4 Kişilik Ferah Oda
+L881 [p]: Geniş m² alanı ve ranzasız baza konforu
+L886 [strong]: 4 Bağımsız Ortopedik Baza (Ranzasız)
+L887 [strong]: 4 Kişilik Geniş Gardırop Alanı
+L888 [strong]: Etüt Salonunda Sessiz Çalışma İmkânı
+L889 [strong]: Açık Büfe Kahvaltı & 4 Kap Akşam Yemeği
+L890 [strong]: Bütçe Dostu Avantajlı Fiyat
+L893 [a]: Bu Odayı Rezerve Et
+L903 [span]: Maksimum Tasarruf
+L907 [h3]: 5 Kişilik Geniş Oda
+L908 [p]: En uygun fiyatla 5 yıldızlı hizmetler
+L913 [strong]: 5 Bağımsız Baza (Ranzasız Sistem)
+L914 [strong]: Geniş Pencere ve Doğal Havalandırma
+L915 [strong]: Açık Büfe Kahvaltı & 4 Kap Akşam Yemeği
+L916 [strong]: Tüm Faturalar (Elektrik, Su, Isınma) Dahil
+L917 [strong]: Öğrenci Dostu En Ekonomik Seçenek
+L920 [a]: Bu Odayı Rezerve Et
+L938 [span]: Veli & Öğrenci Bütçe Rehberi
+L941 [h2]: Öğrenci Evi mi, İnci Yurdu mu?
+L944 [p]: Kastamonu'da ev kiralamak ile İnci Yurdu'nun her şey dahil rezidans konseptini canlı olarak karşılaştırın; yıllık gizli masrafları ve net kazancınızı görün.
+L956 [span]: Ayrı Masraflar & Riskler
+L957 [h3]: Kastamonu'da Öğrenci Evi
+L964 [span]: Ev Kirası (Kuzeykent 1+1 / 2+1 Eşyalı Ort.)
+L965 [span]: 16.000 TL / ay
+L968 [span]: Depozito & Emlakçı Komisyonu (İlk Ay)
+L969 [span]: Tek seferde ~35.000 TL
+L972 [span]: Doğalgaz (Kastamonu Kışı Isınma Ort.)
+L973 [span]: 3.500 TL / ay
+L976 [span]: Elektrik + Su + Bina/Site Aidatı
+L977 [span]: 1.800 TL / ay
+L980 [span]: Yüksek Hızlı Fiber İnternet
+L981 [span]: 1.000 TL / ay
+L984 [span]: Günde 2 Öğün Yemek & Mutfak Sarfiyatı
+L985 [span]: 10.000 TL / ay
+L988 [span]: Dolmuş / Şehiriçi Ulaşım Gideri
+L989 [span]: 1.400 TL / ay
+L992 [span]: Temizlik, Çamaşır, Bulaşık & Güvenlik
+L993 [span]: Öğrenciye ait (+ Zaman Kaybı)
+L1000 [span]: Aylık Ortalama Temel Masraf
+L1001 [span]: ~33.700 TL / ay
+L1003 [p]: Eşya satın alma, nakliye ve ev sahibi depozito riskleri dahil değildir.
+L1014 [span]: Her Şey Dahil Rezidans Konsepti
+L1015 [h3]: Özel İnci Kız Yurdu
+L1022 [span]: Konaklama & Eşyalı Oda
+L1023 [span]: Dahil (Ranzasız Ortopedik Baza)
+L1026 [span]: Emlakçı Komisyonu & Depozito Sürprizi
+L1027 [span]: 0 TL (Yok)
+L1030 [span]: Doğalgaz Isınma & 7/24 Kesintisiz Sıcak Su
+L1031 [span]: Dahil (0 TL Fatura)
+L1034 [span]: Elektrik + Su + Temizlik Hizmetleri
+L1035 [span]: Dahil (0 TL Fatura)
+L1038 [span]: Yüksek Hızlı Fiber Wi-Fi İnternet
+L1039 [span]: Dahil (Sınırsız & 0 TL)
+L1042 [span]: Açık Büfe Kahvaltı & 4 Kap Akşam Ev Yemeği
+L1043 [span]: Dahil (Usta Aşçılardan)
+L1046 [span]: Kampüse Ulaşım Masrafı (50 Metre)
+L1047 [span]: 0 TL (Yürüyerek 1 dk)
+L1050 [span]: 7/24 Güvenlik & Parmak İzi Turnike
+L1051 [span]: Üst Düzey Güvenlik & Huzur
+L1059 [span]: Yıllık Ortalama Net Tasarruf
+L1060 [div]: Yemek + faturalar + internet + dolmuş dahil
+L1063 [span]: +180.000 TL
+L1064 [span]: Aile bütçesine net kazanç
+L1086 [span]: Yılımızda Aynı Şefkat ve Güvenle
+L1087 [p]: 2006'dan günümüze Kastamonu Üniversitesi'nde okuyan binlerce kızımızın mezuniyet gururuna ortak olduk.
+L1096 [h4]: Nazmi Yardımcı
+L1097 [p]: Kurucu Temsilcisi
+L1106 [h4]: Gülnur Özdil
+L1107 [p]: Yurt Müdürü
+L1117 [span]: Biz Kimiz?
+L1120 [h2]: Bir Ticarethane Değil,
+L1122 [span]: Güven Dolu Bir Aile Yuvası.
+L1124 [p]: Özel İnci Yükseköğrenim Kız Öğrenci Yurdu olarak, 2006 yılında attığımız temellerle bugün Kastamonu'nun en köklü ve güvenilir kurumlarından biri olmanın gururunu yaşıyoruz.
+L1127 [p]: Yurdumuz T.C. Gençlik ve Spor Bakanlığı denetiminde ve ruhsatlı olarak hizmet vermektedir. Anne-baba hassasiyetiyle yönettiğimiz yurdumuzda, öğrencilerimizin can güvenliği, sağlıklı ve hijyenik beslenmesi ve huzurlu ders çalışma ortamı birinci önceliğimizdir.
+L1133 [div]: 148 Yatak
+L1134 [div]: Seçkin ve butik kapasite
+L1137 [div]: %100 Deprem Uygun
+L1138 [div]: Yasal yönetmeliklere tam uyumlu
+L1159 [span]: ★★★★★
+L1160 [span]: Google Haritalar Puanı: 4.6 / 5.0 (231+ Değerlendirme)
+L1162 [h2]: Mezunlarımızın ve Velilerimizin Anıları
+L1165 [p]: 2006'dan bu yana binlerce kızımıza güvenli bir yuva olduk. Google Haritalar profilimizden derlenen 231+ doğrulanmış değerlendirmeden bazıları:
+L1182 [div]: ★★★★★
+L1184 [span]: Google Doğrulanmış
+L1188 [p]: "Kastamonu Eğitim Fakültesi'nden mezun oldum. Sınav haftalarımızda gece sessiz etüt salonunun konforu ve Gülnur Hanım'ın anne şefkatiyle hazırlattığı sıcak çorbalar hayatımı kurtardı. Kampüse 1 dakikada yürüyebilmek ve Kastamonu'nun dondurucu kışında dolmuş beklemeden doğrudan derse geçebilmek büyük nimetti."
+L1197 [h4]: Damla K.
+L1198 [p]: Eğitim Fakültesi Mezunu (2024)
+L1209 [div]: ★★★★★
+L1211 [span]: Google Doğrulanmış
+L1215 [p]: "Kızımı ilk defa gurbete gönderirken ailecek çok tedirgindik. 20 yıllık tecrübeleri, gece-gündüz nizamiye güvenliği ve telefonla her aradığımızda Gülnur Hanım ve Nazmi Bey'in içten ilgisi içimizi o kadar ferahlattı ki. 4 yıl boyunca kendi evimiz gibi hissettik, gözüm hiç arkada kalmadı."
+L1224 [h4]: Birsen G.
+L1225 [p]: Öğrenci Velisi (İstanbul)
+L1236 [div]: ★★★★★
+L1238 [span]: Google Doğrulanmış
+L1242 [p]: "Tıp okurken gece gündüz ders çalışacak sessiz, huzurlu bir ortam bulmak hayati önem taşıyor. Yurdun baza konforu, odaların ferahlığı, 7/24 kesintisiz sıcak su ve AmericanLIFE ile sağlanan %35 indirim sayesinde hem derslerime odaklandım hem yabancı dilimi geliştirdim."
+L1251 [h4]: Senem İ.
+L1252 [p]: Tıp Fakültesi 3. Sınıf
+L1263 [div]: ★★★★★
+L1265 [span]: Google Doğrulanmış
+L1269 [p]: "Kastamonu'nun eksi 15 dereceleri bulan kışında doğalgaz ve ısınma en büyük endişemizdi. Odalar 24 saat sıcacık, montsuz oturuluyor. Sabah açık büfe kahvaltı ve akşam anne yemeği lezzetindeki 4 çeşit sıcak yemek sayesinde kızımın beslenmesi konusunda da içimiz hep çok rahat."
+L1278 [h4]: Mustafa D.
+L1279 [p]: Öğrenci Velisi (Ankara)
+L1290 [div]: ★★★★★
+L1292 [span]: Google Doğrulanmış
+L1296 [p]: "Kampüse sadece 50 metre mesafede olması sabah derslerine yetişirken inanılmaz bir konfor. Yurdun temizliği her gün aksatılmadan yapılıyor, çamaşırhane ve ütü olanakları çok pratik. Arkadaş ortamımız da çok nezih, tam bir aile sıcaklığı var."
+L1305 [h4]: Elif Naz Y.
+L1306 [p]: İİBF (3. Sınıf)
+L1317 [div]: ★★★★★
+L1319 [span]: Google Doğrulanmış
+L1323 [p]: "4 yılım İnci Kız Yurdu'nda geçti. Nazmi Bey ve Gülnur Abla sadece yurt yöneticisi değil, sanki buradaki ailemiz gibiydi. Güvenlik konusunda bir gün bile tereddüt yaşamadık. Mezun olurken ağlayarak ayrıldım, kesinlikle Kastamonu'nun en güvenli ve samimi yurdu."
+L1332 [h4]: Büşra T.
+L1333 [p]: Fen Edebiyat Fakültesi Mezunu
+L1344 [div]: ★★★★★
+L1346 [span]: Google Doğrulanmış
+L1350 [p]: "İzmir'den kayıt için geldiğimizde Kuzeykent'teki tüm yurtları gezdik. Kurucuların bizzat kurumun başında bulunması, kurumsal ciddiyet ve MEB standartlarının eksiksiz uygulanması tercihimizi belirledi. Kayıt esnasında ne söz verildiyse yıl boyunca fazlasıyla yerine getirildi."
+L1359 [h4]: Hakan & Zeynep B.
+L1360 [p]: Öğrenci Velileri (İzmir)
+L1371 [div]: ★★★★★
+L1373 [span]: Google Doğrulanmış
+L1377 [p]: "Sınırsız ve gerçekten yüksek hızlı fiber interneti sayesinde online derslerimi ve mimari projelerimi hiç kopmadan teslim edebiliyorum. Odalardaki kişiye özel çalışma masaları, geniş gardıroplar ve ferah mimari eve çıkma ihtiyacını tamamen ortadan kaldırıyor."
+L1386 [h4]: Ayşe Ceren K.
+L1387 [p]: İletişim Fakültesi (2. Sınıf)
+L1419 [span]: Google Haritalar'daki Tüm 231 Yorumu İncele
+L1436 [div]: Güncel Yaşam & Paylaşımlarımız
+L1438 [h2]: Instagram'da
+L1439 [span]: Özel İnci
+L1441 [p]: Yurdumuzdaki sıcak aile ortamını, zengin açık büfe sunumlarımızı, sınav haftası moral etkinliklerimizi ve günlük öğrenci yaşamımızı resmi hesabımızdan takip edin.
+L1453 [span]: @incikizyurdu37
+L1454 [span]: Resmi Sayfa
+L1456 [p]: Özel İnci Yükseköğrenim Kız Öğrenci Yurdu • 2006'dan Beri
+L1458 [span]: gönderi
+L1460 [strong]: 1.530+
+L1460 [span]: takipçi
+L1462 [strong]: Kastamonu
+L1466 [span]: Takip Et
+L1485 [span]: incikizyurdu37
+L1486 [span]: Kastamonu Üniversitesi Yanı
+L1495 [span]: 🎓 ERKEN KAYIT DÖNEMİ
+L1496 [span]: 2026-2027
+L1499 [h3]: Kampüse 50 Metre Mesafede Konforlu Üniversite Hayatı Başlıyor!
+L1500 [p]: Sınırlı kontenjanda avantajlı fiyatlar ve ranzasız baza konforu sizleri bekliyor.
+L1503 [span]: #ErkenKayıt #KastamonuYurt
+L1504 [span]: Kontenjan Sınırlı
+L1514 [a]: Görüntüle ↗
+L1519 [strong]: incikizyurdu37
+L1519 [p]: 2026-2027 Eğitim Öğretim yılı için erken kayıt avantajlarımız başladı. Aile sıcaklığında, güvenli ve 50 metre yürüyüş mesafesinde yerinizi ayırtın! ✨
+L1523 [div]: 2 gün önce • Instagram
+L1537 [span]: incikizyurdu37
+L1538 [span]: İnci Restoran & Mutfak
+L1546 [span]: 🍳 AÇIK BÜFE LEZZETLER
+L1547 [span]: Her Sabah
+L1550 [h3]: Güne Taptaze & Zengin Bir Kahvaltı ile Zinde Başlayın!
+L1551 [p]: Hijyenik mutfağımızda hazırlanan lezzetli ev yemekleri ve açık büfe çeşitleri.
+L1554 [span]: #AçıkBüfe #EvYemeği
+L1555 [span]: Anne Eli Sıcaklığında
+L1564 [a]: Görüntüle ↗
+L1569 [strong]: incikizyurdu37
+L1569 [p]: Kızlarımızın sağlığı ve beslenmesi bizim için ilk sırada. Her sabah açık büfe, her akşam 4 kap sıcak ev yemeğiyle kendinizi evinizde hissedin. 🥐☕
+L1573 [div]: 5 gün önce • Instagram
+L1587 [span]: incikizyurdu37
+L1588 [span]: Etüt & Çalışma Salonu
+L1596 [span]: 🧁 VİZE MORAL GECESİ
+L1597 [span]: Sınav Haftası
+L1600 [h3]: Sınavlara Hazırlanan Kızlarımıza Tatlı & Çay İkramlarımız!
+L1601 [p]: Sessiz etüt salonumuzda gece boyunca süren motivasyon destekleri.
+L1604 [span]: #VizeHaftası #MoralGecesi
+L1605 [span]: Başarılar Kızlar
+L1614 [a]: Görüntüle ↗
+L1619 [strong]: incikizyurdu37
+L1619 [p]: Sınav dönemlerinde çalışma heyecanınıza ortak oluyoruz. Gece etütlerinde sıcacık çay, meyve ve tatlı ikramlarımızla enerji depoluyoruz! 📚🍰
+L1623 [div]: 1 hafta önce • Instagram
+L1637 [span]: incikizyurdu37
+L1638 [span]: Kastamonu Kışı
+L1646 [span]: ❄️ 7/24 MERKEZİ ISITMA
+L1647 [span]: Kesintisiz Sıcak Su
+L1650 [h3]: Dışarıda Kar Yağarken İnci Yurdu'nda Sıcacık Konfor!
+L1651 [p]: Kastamonu'nun sert kış aylarında doğalgaz veya fatura derdi olmadan huzurlu yaşam.
+L1654 [span]: #KışKonforu #Kastamonu
+L1655 [span]: Fatura Masrafı Yok
+L1664 [a]: Görüntüle ↗
+L1669 [strong]: incikizyurdu37
+L1669 [p]: Öğrenci evlerindeki yüksek doğalgaz faturaları ve ısınma sorunları tarihe karıştı. 7/24 kesintisiz sıcak su ve ısıtma sistemimizle sıcacık bir kış! ☕❄️
+L1673 [div]: 2 hafta önce • Instagram
+L1687 [span]: incikizyurdu37
+L1688 [span]: Sosyal Yaşam Alanı
+L1696 [span]: 🎬 SİNEMA & KARAOKE
+L1697 [span]: Hafta Sonu Keyfi
+L1700 [h3]: Derslerin Yorgunluğunu Birlikte Eğlenerek Atıyoruz!
+L1701 [p]: Geniş ekran projeksiyon, patlamış mısır ve unutulmaz dostluklar.
+L1704 [span]: #SinemaGecesi #Dostluk
+L1705 [span]: Unutulmaz Anılar
+L1714 [a]: Görüntüle ↗
+L1719 [strong]: incikizyurdu37
+L1719 [p]: Sadece bir yurt değil, ömür boyu sürecek dostlukların kurulduğu bir yuva. Hafta sonu sinema akşamımızdan kareler! 🍿🎉
+L1723 [div]: 3 hafta önce • Instagram
+L1737 [span]: incikizyurdu37
+L1738 [span]: Eğitim Protokolü
+L1746 [span]: 🇺🇸 AMERICANLIFE %35 İNDİRİM
+L1747 [span]: Özel Ayrıcalık
+L1750 [h3]: İnci Yurdu Öğrencilerine Özel Yabancı Dil Eğitimi Fırsatı!
+L1751 [p]: Kariyerinize güçlü bir başlangıç yapmanız için kurumsal eğitim desteğimiz.
+L1754 [span]: #AmericanLIFE #İngilizce
+L1755 [span]: %35 Burs Desteği
+L1764 [a]: Görüntüle ↗
+L1769 [strong]: incikizyurdu37
+L1769 [p]: Yurdumuzda kalan tüm öğrencilerimiz, AmericanLIFE Kastamonu şubesinde geçerli %35 özel indirimden faydalanabiliyor. Geleceğinize yatırım yapın! 🎓🇺🇸
+L1773 [div]: 1 ay önce • Instagram
+L1784 [span]: Tüm Paylaşımlarımızı Instagram'da Görün (@incikizyurdu37)
+L1798 [span]: Merak Edilenler
+L1801 [h2]: Sıkça Sorulan Sorular
+L1804 [p]: Aklınıza takılan soruların yanıtları burada. Aradığınız konuyu hızlıca filtreleyebilirsiniz.
+L1820 [span]: Yurdun Kastamonu Üniversitesi'ne mesafesi ne kadardır?
+L1823 [div]: Yurdumuz Kuzeykent Kampüsü ve Eğitim Fakültesi'ne tam olarak
+L1824 [strong]: 50 metre (1 dakika yürüyüş)
+L1824 [div]: mesafededir. Tıp Fakültesi 250m, İİBF 300m, Mühendislik 400m mesafededir. Öğrencilerimizin kışın soğukta araç veya dolmuş beklemesine gerek kalmaz.
+L1830 [span]: Odalarda ranza sistemi var mı?
+L1834 [strong]: Kesinlikle hayır.
+L1834 [div]: Yurdumuzda ranza bulunmamaktadır. 1, 2, 3, 4 ve 5 kişilik tüm odalarımızda yüksek kaliteli ortopedik baza ve yatak sistemi bulunmaktadır.
+L1840 [span]: Yemek hizmeti neleri kapsıyor, fiyata dahil mi?
+L1843 [div]: Evet, fiyata dahildir. Hafta içi ve hafta sonu sabahları zengin açık büfe kahvaltı; akşamları ise kendi hijyenik mutfağımızda usta aşçılarımızca hazırlanan 4 kap sıcak ev yemeği sunulmaktadır.
+L1850 [span]: Güvenlik ve giriş-çıkış kontrolleri nasıl sağlanıyor?
+L1853 [div]: Yurdumuzda 7/24 görev yapan güvenlik personeli, biyometrik parmak izi turnike giriş sistemi ve tüm ortak alanları ile çevre koridorları izleyen HD güvenlik kameraları mevcuttur. T.C. Gençlik ve Spor Bakanlığı mevzuatına tam uyumlu giriş-çıkış takibi yapılır.
+L1860 [span]: Çamaşırhane ve ütü için ekstra ücret alınıyor mu?
+L1863 [div]: Hayır, çamaşır yıkama, kurutma ve ütü hizmetlerimiz öğrencilerimize tamamen
+L1864 [strong]: ücretsizdir
+L1864 [div]: . Herhangi bir jeton veya ek ücret talep edilmez.
+L1870 [span]: Ödeme koşulları ve taksit imkanı nasıldır?
+L1873 [div]: Peşin ödemelerde anında
+L1874 [strong]: %10 nakit indirimi
+L1874 [div]: sağlanmaktadır. Ayrıca tüm kredi kartlarına vade farksız 10 aya varan taksit veya senetle kolay ödeme planı sunulmaktadır.
+L1891 [span]: Hemen İletişime Geçin
+L1894 [h2]: Sizi ve Değerli Öğrencimizi Ailemizde Görmekten Mutluluk Duyarız
+L1897 [p]: 2026-2027 akademik yılı erken kayıt avantajları, indirimli fiyat teklifleri ve oda müsaitlik durumu için formumuzu doldurabilir veya doğrudan idaremizi arayabilirsiniz.
+L1907 [div]: Sabit Santral Hattı
+L1908 [div]: 0366 215 09 23
+L1917 [div]: Yurt Müdürü (Gülnur Özdil)
+L1918 [div]: 0505 103 93 09
+L1927 [div]: Canlı WhatsApp Destek Hattı
+L1928 [div]: 0554 023 73 66
+L1937 [div]: Açık Adres
+L1938 [div]: Kuzeykent Mah. Üstün Sok. No: 12, Merkez / Kastamonu
+L1939 [div]: (Kastamonu Üniversitesi Kuzeykent Kampüsü Yanı - 50m)
+L1951 [span]: Online Ön Başvuru
+L1952 [h3]: 2026-2027 Erken Kayıt Formu
+L1953 [p]: Formu doldurduğunuzda bilgileriniz anında yurt yetkilimize iletilir ve yeriniz ayrılır.
+L1961 [label]: Lütfen bu alanı boş bırakın
+L1967 [label]: Öğrenci Adı Soyadı *
+L1971 [label]: Telefon Numarası *
+L1978 [label]: Kazanılan / Okunan Bölüm *
+L1982 [label]: Oda Tercihi *
+L1984 [option]: Oda Seçiniz (Farketmez)
+L1985 [option]: 1 Kişilik VIP Süit Oda
+L1986 [option]: 2 Kişilik Süit Oda (En Popüler)
+L1987 [option]: 3 Kişilik Konfor Oda
+L1988 [option]: 4 Kişilik Ferah Oda
+L1989 [option]: 5 Kişilik Ekonomik Oda
+L1995 [label]: Özel İstek veya Veli Notu (Opsiyonel)
+L2002 [label]: Paylaştığım iletişim bilgilerimin 6698 sayılı KVKK kapsamında yurt kayıt ve bilgilendirme amacıyla işlenmesini onaylıyorum.
+L2010 [span]: Ön Kayıt Talebini WhatsApp ile İlet
+L2013 [p]: Bilgileriniz doğrudan Yurt Yetkilimiz Gülnur Hanım'a WhatsApp mesajı olarak iletilecektir.
+L2034 [span]: Kuzeykent Kampüsü & Eğitim / Tıp Fakültesi Yanı
+L2036 [h3]: Kastamonu Özel İnci Yükseköğretim Kız Öğrenci Yurdu
+L2039 [p]: 📍 Kuzeykent Mah. Üstün Sok. No: 12, Kastamonu Merkez • Kampüs ve Eğitim Fakültesi'ne sadece 50 metre (1 dakika yürüyüş)
+L2047 [span]: Google Haritalar'da Yol Tarifi Al ↗
+L2050 [span]: Apple Haritalar
+L2074 [div]: Eğitim & Tıp Fakültesi
+L2075 [div]: 50 Metre (1 Dk Yürüyüş)
+L2081 [div]: Merkezi Kütüphane
+L2082 [div]: 350 Metre (4 Dk Yürüyüş)
+L2088 [div]: İİBF & İletişim
+L2089 [div]: 300 Metre (3-4 Dk)
+L2095 [div]: Kampüs Dolmuş Durağı
+L2096 [div]: 30 Metre (Kapı Önü)
+L2115 [span]: Özel İnci
+L2116 [p]: Kız Öğrenci Yurdu
+L2119 [p]: T.C. Gençlik ve Spor Bakanlığı'na bağlı olarak 2006 yılından bu yana Kastamonu Üniversitesi öğrencilerine 50 metre mesafede güvenli ve huzurlu bir aile ortamı sunuyoruz.
+L2122 [div]: ★ 4.9 / 5.0 (148+ Veli & Öğrenci Puanı)
+L2129 [h4]: Hızlı Menü
+L2131 [a]: Kampüs Mesafesi (50m)
+L2132 [a]: 5 Yıldızlı Hizmetlerimiz
+L2133 [a]: Süit Odalar
+L2134 [a]: Ev vs. Yurt Maliyet Analizi
+L2135 [a]: 📸 Instagram Gönderilerimiz (@incikizyurdu37)
+L2136 [a]: Sıkça Sorulan Sorular
+L2137 [a]: 2026 Erken Kayıt Başvurusu
+L2143 [h4]: İletişim
+L2147 [span]: Kuzeykent Mah. Üstün Sok. No: 12, Kastamonu
+L2151 [a]: 0366 215 09 23 (Santral)
+L2155 [a]: 0505 103 93 09 (Müdür)
+L2159 [a]: 0554 023 73 66 (WhatsApp)
+L2163 [a]: @incikizyurdu37 (Instagram)
+L2167 [span]: [email protected]
+L2174 [h4]: Resmi Ruhsat & Güvenlik
+L2175 [p]: Kurumumuz T.C. Gençlik ve Spor Bakanlığı Yükseköğrenim Özel Barınma Hizmetleri Yönetmeliği'ne tabidir. Yangın ve deprem güvenlik raporlarına sahiptir.
+L2178 [div]: 🛡️ 2006'dan beri kesintisiz 20 yıllık resmi hizmet güvencesi.
+L2186 [div]: © 2006 - 2026 Özel İnci Yükseköğrenim Kız Öğrenci Yurdu. Tüm hakları saklıdır.
+L2190 [a]: KVKK Aydınlatma Metni
+L2192 [a]: Gizlilik & Çerez Politikası
+L2204 [span]: Hemen Ara
+L2208 [span]: WhatsApp
+L2212 [span]: Yol Tarifi
+L2216 [span]: Ön Kayıt
+L2224 [p]: Sitemizde deneyiminizi geliştirmek ve yasal yükümlülüklerimizi yerine getirmek amacıyla zorunlu çerezler kullanılmaktadır.
+L2230 [button]: Kabul Ediyorum
