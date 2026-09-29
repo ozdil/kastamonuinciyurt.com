@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["Hostel", "LodgingBusiness"],
+  "name": "Özel İnci Yükseköğrenim Kız Öğrenci Yurdu & Rezidansı",
+  "alternateName": [
+    "Kastamonu Kız Yurdu",
+    "Kastamonu Özel Kız Öğrenci Yurdu",
+    "Özel İnci Kız Yurdu",
+    "İnci Kız Rezidansı Kastamonu"
+  ],
+  "url": "https://www.kastamonuinciyurt.com/",
+  "telephone": "+905422353737",
+  "founder": {
+    "@type": "Person",
+    "name": "Ozan Özdil",
+    "alternateName": "ozdil",
+    "url": "https://ozanozdil.com"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kuzeykent Mahallesi, Üniversite Yanı",
+    "addressLocality": "Kastamonu",
+    "postalCode": "37150",
+    "addressCountry": "TR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.42325,
+    "longitude": 33.77338
+  },
+  "distanceToUniversity": "150m (Kastamonu Üniversitesi Kuzeykent Kampüsü)",
+  "features": [
+    "Ranzasız lüks ortopedik bazalı yataklar",
+    "Açık büfe sabah kahvaltısı dahil",
+    "4 çeşit taze akşam ev yemeği dahil",
+    "150 metre kampüs yürüme mesafesi (sıfır dolmuş masrafı)",
+    "Akıllı çipli kart geçiş sistemi",
+    "Yüksek hızlı Wi-Fi 6 fiber internet",
+    "Sessiz etüt salonu ve kütüphane",
+    "T.C. GSB Ruhsatlı (2006'dan beri kesintisiz)"
+  ],
+  "license": "T.C. Gençlik ve Spor Bakanlığı",
+  "academicYear": "2026-2027"
+}
